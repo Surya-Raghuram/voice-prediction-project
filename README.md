@@ -5,7 +5,6 @@ This project predicts gender based on voice features using a Random Forest Class
 ## Project Structure
 - `data/`: Contains training and test datasets.
 - `src/`: Python files for training and testing the model.
-- `models/`: Saved models for inference.
 - `notebooks/`: EDA and visualization notebooks.
 
 ## Requirements
